@@ -9113,6 +9113,17 @@
         ]
     },
     {
+        "name": "Grok / xAI",
+        "url": "https://accounts.x.ai/data",
+        "difficulty": "easy",
+        "notes": "Open the linked page, enter your email. Your account will be deleted in 30 days. To cancel your request, log in again.",
+        "domains": [
+            "accounts.x.ai",
+            "x.ai",
+            "grok.com"
+        ]
+    },
+    {
         "name": "GroupMe",
         "url": "https://app.groupme.com/profile",
         "difficulty": "easy",
@@ -12777,6 +12788,14 @@
         "difficulty": "easy",
         "notes": "Click 'DELETE ACCOUNT' at the bottom of the 'Account Settings' page, then click 'DELETE'. This will also delete your Thingiverse account.",
         "domains": ["makerbot.com"]
+    },
+    {
+        "name": "MakerWorld",
+        "url": "https://makerworld.com/en/my/settings/security",
+        "difficulty": "easy",
+        "notes": "In your account settings, click 'Delete Account' at the bottom of the 'Security and Privacy' page, then click 'DELETE'. You will have to re enter your credentials. This will also delete your Bambu Lab account since they are the same one.",
+        "notes_fr": "Dans les paramètres de votre compte, Sécurité et vie privée, cliquez sur 'Supprimer le Compte' tout en bas de la page. Re saisissez vos informations de connexion puis validez. Supprimer votre compte MakerWorld supprimera également votre compte Bambu Lab car ce sont les mêmes comptes",
+        "domains": ["makerworld.com"]
     },
     {
         "name": "MangaDex",
